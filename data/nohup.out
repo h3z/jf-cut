@@ -1,0 +1,320 @@
+[W 10:25:18.200 LabApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 10:25:18.206 LabApp] JupyterLab extension loaded from /home/hzzz/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 10:25:18.206 LabApp] JupyterLab application directory is /home/hzzz/anaconda3/share/jupyter/lab
+[I 10:25:18.208 LabApp] 启动notebooks 在本地路径: /home/hzzz/jiubai_env/jupyter
+[I 10:25:18.208 LabApp] 本程序运行在: http://hzzz:8888/
+[I 10:25:18.208 LabApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[W 10:25:20.982 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:25:22.037 LabApp] Kernel started: f10d41c2-d852-43f2-b0f1-00bd4ea616eb
+[I 10:27:21.982 LabApp] Saving file at /未命名1.ipynb
+[I 11:05:22.224 LabApp] Saving file at /未命名1.ipynb
+[I 11:07:22.493 LabApp] Saving file at /未命名1.ipynb
+[I 11:09:22.626 LabApp] Saving file at /未命名1.ipynb
+[I 11:11:22.724 LabApp] Saving file at /未命名1.ipynb
+[I 11:13:22.855 LabApp] Saving file at /未命名1.ipynb
+[I 11:15:22.936 LabApp] Saving file at /未命名1.ipynb
+[I 11:25:22.993 LabApp] Saving file at /未命名1.ipynb
+[I 11:27:23.148 LabApp] Saving file at /未命名1.ipynb
+[I 11:29:23.318 LabApp] Saving file at /未命名1.ipynb
+[I 11:31:23.565 LabApp] Saving file at /未命名1.ipynb
+[I 12:06:48.059 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:08a7d92d-eec5-4156-8d99-4b9bcbfb3e3b
+[I 12:06:49.109 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:08a7d92d-eec5-4156-8d99-4b9bcbfb3e3b
+[W 12:08:19.111 LabApp] WebSocket ping timeout after 90001 ms.
+[I 12:08:24.122 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:08a7d92d-eec5-4156-8d99-4b9bcbfb3e3b
+[I 12:34:36.999 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:08a7d92d-eec5-4156-8d99-4b9bcbfb3e3b
+[I 12:38:25.644 LabApp] Saving file at /未命名1.ipynb
+[I 12:40:25.858 LabApp] Saving file at /未命名1.ipynb
+[I 12:42:26.048 LabApp] Saving file at /未命名1.ipynb
+[I 12:44:26.309 LabApp] Saving file at /未命名1.ipynb
+[I 12:46:26.539 LabApp] Saving file at /未命名1.ipynb
+[I 12:48:26.800 LabApp] Saving file at /未命名1.ipynb
+[I 12:50:27.094 LabApp] Saving file at /未命名1.ipynb
+[I 12:54:27.387 LabApp] Saving file at /未命名1.ipynb
+[I 12:56:28.277 LabApp] Saving file at /未命名1.ipynb
+[I 13:42:54.970 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:08a7d92d-eec5-4156-8d99-4b9bcbfb3e3b
+[W 13:42:58.239 LabApp] Could not determine jupyterlab build status without nodejs
+[I 13:45:05.001 LabApp] Saving file at /未命名1.ipynb
+[I 13:47:08.590 LabApp] Saving file at /未命名1.ipynb
+[I 13:49:12.742 LabApp] Saving file at /未命名1.ipynb
+[I 13:51:16.745 LabApp] Saving file at /未命名1.ipynb
+[I 13:53:21.192 LabApp] Saving file at /未命名1.ipynb
+[I 14:06:50.264 LabApp] Copying 未命名1.ipynb to /
+[I 14:07:13.012 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:ea007fd4-9523-4ea8-84ac-8c1871e7559c
+[I 14:07:18.338 LabApp] Kernel started: b5e8ef0f-88c5-4755-89fb-45f71cdc7074
+[I 14:09:26.971 LabApp] Saving file at /res_2.ipynb
+[I 14:11:33.324 LabApp] Saving file at /res_2.ipynb
+[I 14:13:40.579 LabApp] Saving file at /res_2.ipynb
+display-im6.q16: unable to open X server `' @ error/display.c/DisplayImageCommand/432.
+display-im6.q16: unable to open X server `' @ error/display.c/DisplayImageCommand/432.
+[I 14:15:45.953 LabApp] Saving file at /res_2.ipynb
+display-im6.q16: unable to open X server `' @ error/display.c/DisplayImageCommand/432.
+[I 14:17:53.383 LabApp] Saving file at /res_2.ipynb
+[I 14:18:32.992 LabApp] Creating new notebook in /
+[I 14:18:33.370 LabApp] Kernel started: dd5ba237-673c-4d4c-96cf-1fcdb01e9d21
+[I 14:20:33.390 LabApp] Saving file at /np_test.ipynb
+[I 14:27:57.430 LabApp] Saving file at /res_2.ipynb
+[I 14:30:02.551 LabApp] Saving file at /res_2.ipynb
+[I 14:32:08.917 LabApp] Saving file at /res_2.ipynb
+[I 14:34:14.592 LabApp] Saving file at /res_2.ipynb
+[I 14:46:20.195 LabApp] Saving file at /res_2.ipynb
+[I 14:48:26.066 LabApp] Saving file at /res_2.ipynb
+[I 15:12:49.564 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 15:12:49.564 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[I 15:12:50.974 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 15:12:51.114 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[W 15:14:20.978 LabApp] WebSocket ping timeout after 90003 ms.
+[W 15:14:21.116 LabApp] WebSocket ping timeout after 90001 ms.
+[I 15:14:25.984 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 15:14:26.118 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[I 15:38:55.263 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 15:38:55.383 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[I 16:35:15.294 LabApp] Copying res_2.ipynb to /
+[I 16:35:45.031 LabApp] Saving file at /res_2.ipynb
+[I 17:41:02.536 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:155798b1-525d-49a1-b173-b197398bc3bb
+[I 17:41:02.536 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[I 17:41:02.537 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 17:41:03.990 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:155798b1-525d-49a1-b173-b197398bc3bb
+[I 17:41:04.075 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[I 17:41:04.167 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[W 17:42:33.994 LabApp] WebSocket ping timeout after 90003 ms.
+[W 17:42:34.076 LabApp] WebSocket ping timeout after 90000 ms.
+[W 17:42:34.168 LabApp] WebSocket ping timeout after 90001 ms.
+[I 17:42:39.002 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:155798b1-525d-49a1-b173-b197398bc3bb
+[I 17:42:39.078 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[I 17:42:39.170 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 17:43:32.258 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 17:43:32.342 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[W 17:45:02.265 LabApp] WebSocket ping timeout after 90006 ms.
+[W 17:45:02.343 LabApp] WebSocket ping timeout after 90001 ms.
+[I 17:45:07.268 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:7da717b3-7b96-4eb3-bbd7-e72a4fe77e6b
+[I 17:45:07.345 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:c55acdfb-69ce-4357-bfa0-e0947b9ff859
+[W 10:19:07.589 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:19:17.927 LabApp] Kernel started: bfd13b23-abcf-49a5-acab-2efc4f0a5557
+[I 10:29:17.777 LabApp] Saving file at /res_3.ipynb
+[I 11:56:03.801 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[I 11:56:03.802 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 11:56:03.803 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 11:56:03.804 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:f325c89e-d856-4782-8a57-a5df2983fb8a
+[I 11:56:04.881 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[I 11:56:04.917 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 11:56:04.946 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[W 11:57:34.853 LabApp] WebSocket ping timeout after 90004 ms.
+[W 11:57:34.881 LabApp] WebSocket ping timeout after 90000 ms.
+[W 11:57:34.917 LabApp] WebSocket ping timeout after 90000 ms.
+[W 11:57:34.946 LabApp] WebSocket ping timeout after 90000 ms.
+[W 11:57:34.982 LabApp] WebSocket ping timeout after 90000 ms.
+[I 11:57:39.883 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[I 11:57:39.919 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 11:57:39.948 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 11:57:39.983 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:f325c89e-d856-4782-8a57-a5df2983fb8a
+[I 12:07:42.377 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[I 12:07:42.395 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 12:07:42.420 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 13:07:59.002 LabApp] Saving file at /np_test.ipynb
+[I 13:09:59.112 LabApp] Saving file at /np_test.ipynb
+[I 13:27:59.171 LabApp] Saving file at /np_test.ipynb
+[I 13:31:59.275 LabApp] Saving file at /np_test.ipynb
+[I 17:14:29.681 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:14bb31a1-0c3f-405a-87d4-7e5f4178a66e
+[I 17:14:29.682 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 17:14:29.683 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 17:14:29.683 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[I 17:14:30.781 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 17:14:30.814 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 17:14:30.852 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[W 17:16:00.716 LabApp] WebSocket ping timeout after 90002 ms.
+[W 17:16:00.752 LabApp] WebSocket ping timeout after 90000 ms.
+[W 17:16:00.782 LabApp] WebSocket ping timeout after 90000 ms.
+[W 17:16:00.814 LabApp] WebSocket ping timeout after 90000 ms.
+[W 17:16:00.853 LabApp] WebSocket ping timeout after 90000 ms.
+[I 17:16:05.754 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:14bb31a1-0c3f-405a-87d4-7e5f4178a66e
+[I 17:16:05.783 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 17:16:05.815 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 17:16:05.855 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[I 17:16:07.821 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 17:16:07.846 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 17:16:07.883 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[W 17:17:37.747 LabApp] WebSocket ping timeout after 90003 ms.
+[W 17:17:37.775 LabApp] WebSocket ping timeout after 90001 ms.
+[W 17:17:37.822 LabApp] WebSocket ping timeout after 90001 ms.
+[W 17:17:37.847 LabApp] WebSocket ping timeout after 90000 ms.
+[W 17:17:37.885 LabApp] WebSocket ping timeout after 90001 ms.
+[I 17:17:42.777 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:14bb31a1-0c3f-405a-87d4-7e5f4178a66e
+[I 17:17:42.823 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:001fba51-97e2-4bf3-b4a3-0a102ddb9ec6
+[I 17:17:42.848 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:fc9c5aec-a7ad-41ae-b173-09ba5409fad1
+[I 17:17:42.886 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:66a2521d-4f49-49c9-a239-236e068510e0
+[W 16:27:44.960 LabApp] Could not determine jupyterlab build status without nodejs
+[I 16:27:53.987 LabApp] Creating new notebook in /
+[I 16:27:54.286 LabApp] Kernel started: 58fa295b-a474-468c-92c6-c52308e0de9d
+123
+123
+[I 16:29:54.226 LabApp] Saving file at /cuda_test.ipynb
+0.000000
+2.000000
+[I 16:31:54.403 LabApp] Saving file at /cuda_test.ipynb
+[I 16:33:28.513 LabApp] Kernel interrupted: 58fa295b-a474-468c-92c6-c52308e0de9d
+[I 16:33:29.348 LabApp] Kernel interrupted: 58fa295b-a474-468c-92c6-c52308e0de9d
+[I 16:33:29.530 LabApp] Kernel interrupted: 58fa295b-a474-468c-92c6-c52308e0de9d
+[I 16:33:29.948 LabApp] Kernel interrupted: 58fa295b-a474-468c-92c6-c52308e0de9d
+[I 16:33:54.469 LabApp] Saving file at /cuda_test.ipynb
+[I 16:33:55.866 LabApp] Kernel shutdown: 58fa295b-a474-468c-92c6-c52308e0de9d
+[I 16:34:01.689 LabApp] Kernel started: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:39.441 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:39.632 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:39.822 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:40.006 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:40.188 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:40.330 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:40.494 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:40.712 LabApp] Kernel interrupted: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:34:45.941 LabApp] Kernel shutdown: c4e3c4f4-e368-4c4d-9e4b-488e97407e25
+[I 16:35:54.649 LabApp] Saving file at /cuda_test.ipynb
+[I 16:44:11.428 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:44:11.429 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:44:11.429 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:44:11.430 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 16:44:12.968 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:44:13.830 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:44:14.085 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:44:14.372 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[W 16:45:42.972 LabApp] WebSocket ping timeout after 90003 ms.
+[W 16:45:43.834 LabApp] WebSocket ping timeout after 90004 ms.
+[W 16:45:44.087 LabApp] WebSocket ping timeout after 90001 ms.
+[W 16:45:44.375 LabApp] WebSocket ping timeout after 90003 ms.
+[I 16:45:47.974 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:45:48.838 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:45:49.089 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:45:49.378 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 16:47:11.664 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:47:11.841 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:47:57.045 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:47:57.136 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 16:52:21.125 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:52:21.125 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:52:21.126 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:52:21.127 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 16:52:22.167 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:52:22.213 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:52:22.242 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:52:22.268 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[W 16:53:52.168 LabApp] WebSocket ping timeout after 90000 ms.
+[W 16:53:52.214 LabApp] WebSocket ping timeout after 90000 ms.
+[W 16:53:52.242 LabApp] WebSocket ping timeout after 90000 ms.
+[W 16:53:52.268 LabApp] WebSocket ping timeout after 90000 ms.
+[I 16:53:57.170 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:53:57.215 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:53:57.244 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:53:57.270 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 16:57:01.083 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 16:57:01.114 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 16:57:01.308 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 16:57:01.516 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 17:01:58.731 LabApp] Saving file at /cuda_test.ipynb
+[I 17:02:06.119 LabApp] Kernel started: aa0e1927-a3f9-48e5-b7d2-4dcdb9c0b9f0
+[I 17:02:09.390 LabApp] Starting buffering for aa0e1927-a3f9-48e5-b7d2-4dcdb9c0b9f0:05a303ef-a77b-43fd-ac03-3b2c70ffc809
+[I 17:02:09.692 LabApp] Kernel started: 807141e3-2718-45a5-ba46-59bf8e556d30
+[I 17:02:09.693 LabApp] Kernel shutdown: aa0e1927-a3f9-48e5-b7d2-4dcdb9c0b9f0
+[I 17:03:58.940 LabApp] Saving file at /cuda_test.ipynb
+[I 18:54:31.592 LabApp] Starting buffering for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 18:54:31.593 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 18:54:31.594 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 18:54:31.595 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 18:54:31.595 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 18:54:32.661 LabApp] Restoring connection for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 18:54:32.719 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 18:54:32.752 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 18:54:32.781 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 18:54:32.829 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[W 18:56:02.666 LabApp] WebSocket ping timeout after 90004 ms.
+[W 18:56:02.720 LabApp] WebSocket ping timeout after 90000 ms.
+[W 18:56:02.753 LabApp] WebSocket ping timeout after 90000 ms.
+[W 18:56:02.782 LabApp] WebSocket ping timeout after 90000 ms.
+[W 18:56:02.830 LabApp] WebSocket ping timeout after 90000 ms.
+[I 18:56:07.671 LabApp] Starting buffering for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 18:56:07.722 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 18:56:07.754 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 18:56:07.783 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 18:56:07.831 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 18:56:08.905 LabApp] Restoring connection for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 18:56:08.924 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 18:56:08.978 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 18:56:09.006 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 18:56:09.034 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 21:00:11.230 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 21:00:11.230 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 21:00:11.242 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 21:00:11.242 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 21:00:11.243 LabApp] Starting buffering for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 21:00:12.272 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 21:00:12.302 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 21:00:12.332 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 21:00:12.366 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 21:00:12.391 LabApp] Restoring connection for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[W 21:01:42.274 LabApp] WebSocket ping timeout after 90001 ms.
+[W 21:01:42.303 LabApp] WebSocket ping timeout after 90001 ms.
+[W 21:01:42.333 LabApp] WebSocket ping timeout after 90001 ms.
+[W 21:01:42.367 LabApp] WebSocket ping timeout after 90000 ms.
+[W 21:01:42.391 LabApp] WebSocket ping timeout after 90000 ms.
+[I 21:01:47.282 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 21:01:47.305 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 21:01:47.334 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 21:01:47.368 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 21:01:47.392 LabApp] Starting buffering for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 21:04:43.348 LabApp] Restoring connection for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 21:04:43.567 LabApp] Restoring connection for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 21:04:43.774 LabApp] Restoring connection for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 21:04:43.952 LabApp] Restoring connection for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 21:04:44.070 LabApp] Restoring connection for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[W 21:06:13.350 LabApp] WebSocket ping timeout after 90002 ms.
+[W 21:06:13.569 LabApp] WebSocket ping timeout after 90001 ms.
+[W 21:06:13.777 LabApp] WebSocket ping timeout after 90002 ms.
+[W 21:06:13.954 LabApp] WebSocket ping timeout after 90002 ms.
+[W 21:06:14.072 LabApp] WebSocket ping timeout after 90001 ms.
+[I 21:06:18.352 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:945e46ff-19ba-4e93-aad4-5458184c42a2
+[I 21:06:18.571 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:2d21522f-56b2-4686-845c-c7daa77cd551
+[I 21:06:18.779 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:893db8e6-6da6-4a7e-a184-99ef1a34217e
+[I 21:06:18.957 LabApp] Starting buffering for dd5ba237-673c-4d4c-96cf-1fcdb01e9d21:489fc503-ead7-4c70-a24a-48e2bc26d8c4
+[I 21:06:19.074 LabApp] Starting buffering for 807141e3-2718-45a5-ba46-59bf8e556d30:6dc1a132-85b4-4c1c-bb5d-001145e4e0c7
+[I 08:50:50.233 LabApp] Creating new notebook in /
+[I 08:50:50.523 LabApp] Kernel started: 6b0fa590-660a-4632-8081-f635c5cf3384
+[I 08:51:40.256 LabApp] Starting buffering for f10d41c2-d852-43f2-b0f1-00bd4ea616eb:090d8010-1084-417a-aea0-c852db71a006
+[I 08:52:51.392 LabApp] Saving file at /chekc_img.ipynb
+[I 15:11:28.429 LabApp] Starting buffering for b5e8ef0f-88c5-4755-89fb-45f71cdc7074:b95657ff-2b2a-48aa-a24e-d1b8b4b9e934
+[I 15:11:28.881 LabApp] Starting buffering for bfd13b23-abcf-49a5-acab-2efc4f0a5557:5190e04e-282a-4ad6-82b4-71610a704889
+[I 15:11:47.307 LabApp] Saving file at /chekc_img.ipynb
+[I 15:11:48.294 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:bc8d6523-ff53-49e3-8f36-eb4fc73e1659
+[I 15:13:50.381 LabApp] Saving file at /chekc_img.ipynb
+[I 15:17:51.378 LabApp] Saving file at /chekc_img.ipynb
+[I 15:33:53.331 LabApp] Saving file at /chekc_img.ipynb
+[I 15:41:57.906 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:76a78529-85ae-4de2-a508-e000b73b963e
+[I 15:44:02.003 LabApp] Saving file at /chekc_img.ipynb
+[W 16:24:00.874 LabApp] WebSocket ping timeout after 119979 ms.
+[I 16:24:05.878 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 16:42:20.948 LabApp] Restoring connection for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 17:03:28.920 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 17:03:30.735 LabApp] Restoring connection for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[W 17:05:00.736 LabApp] WebSocket ping timeout after 90001 ms.
+[I 17:05:05.740 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 17:06:58.458 LabApp] Restoring connection for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 17:50:03.480 LabApp] Saving file at /chekc_img.ipynb
+[I 19:00:09.181 LabApp] Saving file at /chekc_img.ipynb
+[I 19:02:09.300 LabApp] Saving file at /chekc_img.ipynb
+[I 19:20:09.546 LabApp] Saving file at /chekc_img.ipynb
+[I 19:32:09.628 LabApp] Saving file at /chekc_img.ipynb
+[I 19:44:09.712 LabApp] Saving file at /chekc_img.ipynb
+[I 19:48:09.827 LabApp] Saving file at /chekc_img.ipynb
+[I 19:50:09.931 LabApp] Saving file at /chekc_img.ipynb
+[I 20:04:10.024 LabApp] Saving file at /chekc_img.ipynb
+[I 20:24:11.082 LabApp] Saving file at /chekc_img.ipynb
+[I 20:26:12.135 LabApp] Saving file at /chekc_img.ipynb
+[I 20:28:12.216 LabApp] Saving file at /chekc_img.ipynb
+[I 20:32:12.303 LabApp] Saving file at /chekc_img.ipynb
+[I 20:34:12.424 LabApp] Saving file at /chekc_img.ipynb
+[I 20:46:12.511 LabApp] Saving file at /chekc_img.ipynb
+[I 20:48:12.628 LabApp] Saving file at /chekc_img.ipynb
+[I 20:48:16.303 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 20:48:17.334 LabApp] Restoring connection for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[W 20:49:47.341 LabApp] WebSocket ping timeout after 90006 ms.
+[I 20:49:52.344 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[I 20:50:58.451 LabApp] Restoring connection for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
+[W 20:52:28.455 LabApp] WebSocket ping timeout after 90004 ms.
+[I 20:52:33.457 LabApp] Starting buffering for 6b0fa590-660a-4632-8081-f635c5cf3384:2593ed55-ac07-4582-8fe3-782bcbbc914c
